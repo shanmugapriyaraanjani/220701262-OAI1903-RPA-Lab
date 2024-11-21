@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Weekly Contest Question  UiPhoria",
+  "Type": "Screen",
+  "Id": "BS-XCRXQlUCBHPOgyYECmA",
+  "Reference": "aephlUeaYkCQIUzvsS7_Hg/BS-XCRXQlUCBHPOgyYECmA",
+  "ParentRef": "aephlUeaYkCQIUzvsS7_Hg/ezKgZRYfp0mAO5sEtVua4A",
+  "Created": "2024-09-15T15:44:08.1703412Z",
+  "Updated": "2024-09-15T15:44:08.1703412Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

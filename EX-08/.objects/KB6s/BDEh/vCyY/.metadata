@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome AI at work-The Business Automation Pla",
+  "Type": "Screen",
+  "Id": "vCyYKcSb80iSyitAHdw7xw",
+  "Reference": "uTLrHzC3GECfSMAldJ5G-A/vCyYKcSb80iSyitAHdw7xw",
+  "ParentRef": "uTLrHzC3GECfSMAldJ5G-A/BDEh9NJJBkmmh6bJ1D5Dag",
+  "Created": "2024-07-22T04:30:38.6385136Z",
+  "Updated": "2024-07-22T04:30:38.6385136Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
